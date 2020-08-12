@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">vePlaca</string>
+    <string name="primeraVentana">Ingrese el ultimo digito de su placa</string>
+    <string name="primerBoton">SIGUENTE</string>
+    <string name="calendar1_2">1-2</string>
+    <string name="calendar3_4">3-4</string>
+    <string name="calendar5_6">5-6</string>
+    <string name="calendar7_8">7-8</string>
+    <string name="calendar9_0">9-0</string>
+    <string name="placaView">PLACA</string>
+</resources>
