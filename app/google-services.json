@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "93275492989",
+    "firebase_url": "https://veplaca-f77fc.firebaseio.com",
+    "project_id": "veplaca-f77fc",
+    "storage_bucket": "veplaca-f77fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93275492989:android:1b2dafefd40cbfa2bdd714",
+        "android_client_info": {
+          "package_name": "com.proyecto.veplaca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93275492989-u97oc0at0nhpm3ium9k6lhhecgtccrai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYosulsxZOWrnTh0qGOBptVDqdSSDz9SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93275492989-u97oc0at0nhpm3ium9k6lhhecgtccrai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3625729329763235~9317822986"
+    }
+  ],
+  "configuration_version": "1"
+}
